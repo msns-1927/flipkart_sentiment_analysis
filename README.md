@@ -43,15 +43,16 @@ The dataset consists of 8,518 customer reviews collected from Flipkart product l
 
 The dataset contains 8 columns, described below:
 
-Column Name	Description
-Reviewer Name	Name or identifier of the customer who posted the review
-Review Title	Short summary or heading of the review
-Place of Review	Location of the reviewer (if available)
-Up Votes	Number of users who found the review helpful
-Down Votes	Number of users who disliked the review
-Month	Month and year when the review was posted
-Review text	Full textual content of the customer review
-Ratings	Product rating given by the user (1 to 5 scale)
+| Column Name | Description |
+| :---: | :---: |
+| Reviewer Name |	Name or identifier of the customer who posted the review |
+| Review Title | Short summary or heading of the review |
+| Place of Review | Location of the reviewer (if available) |
+| Up Votes | Number of users who found the review helpful |
+| Down Votes | Number of users who disliked the review |
+| Month | Month and year when the review was posted |
+| Review text | Full textual content of the customer review |
+| Ratings | Product rating given by the user (1 to 5 scale) |
 
 
 **🧠 Usage in This Project :**
